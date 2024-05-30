@@ -1,4 +1,11 @@
+# virtual enviroment and variables env.
 .venv
-baulCodigos.ipynb
+.env
+#base de datos
 /baseDatos
 /datasets
+
+
+#files
+EdaInitial.ipynb
+baulCodigos.ipynb

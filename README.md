@@ -8,11 +8,15 @@ El objetivo mayor es construir una herramienta que permita a los dueños saber c
 
 En primier lugar se realiza un análisis exploratorio para responder cierta preguntas.
 
-* Cuántas tipos de canastas diferentes existen
-* Cuántos productos son incluidos en las canastas.
-* Productos más vendidos.
-* Cuándo compran los usuarios, análisis temporal
-* Cuál es el tamaño de la canasta
-* Qué productos son comprados en: Día, semana
-* Cuándo las personas compran, análisis por horario
-* Qué productos no sean comprado
+* 🪣Cuántas canastas diferentes existen
+* 🥫Cuántos productos son incluidos en las canastas.
+* 🚀Productos más vendidos.
+* 🔝Qué productos son más comprados en: Día, semana
+    - Distribución de productos y combinaciones de top 10
+    - Correlación de los top 10 productos
+* 🛰️Cuándo las personas compran, análisis por horario
+* ⏳Qué productos no sean comprado
+
+### Análisis preditivo
+
+Eligiendo un producto como ejemplo, se usaran diferentes modelos de predicción y se evaluarán los resultados usando diferentes métricas.
